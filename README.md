@@ -693,7 +693,7 @@ API | Description | Auth | HTTPS | CORS | Link |
 | Detect Language | Detects text language | `apiKey` | Yes | Unknown | [Go!](https://detectlanguage.com/) |
 | Google Cloud Natural | Natural language understanding technology, including sentiment, entity, and syntax analysis | `apiKey` | Yes | Unknown | [Go!](https://cloud.google.com/natural-language/docs/) |
 | Semantira | Text Analytics with sentiment analysis, categorization & named entity extraction | `OAuth` | Yes | Unknown | [Go!](https://semantria.readme.io/docs) |
-| Tisane | Detect hate speech & abuse in general | apiKey  | Yes | Unknown | [Go!](https://tisane.ai/subscription-plans/) |
+| Tisane | Detect hate speech, sexual harassment & abuse in general in 27 languages | `apiKey`  | Yes | Unknown | [Go!](https://tisane.ai/subscription-plans/) |
 | Watson Natural Language Understanding | Natural language processing for advanced text analysis | `OAuth` | Yes | Unknown | [Go!](https://www.ibm.com/watson/developercloud/natural-language-understanding/api/v1/) |
 
 ### Tracking
